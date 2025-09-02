@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://synapsegear.shop/sitemap.xml
